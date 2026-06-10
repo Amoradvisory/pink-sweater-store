@@ -1,36 +1,34 @@
 # Pink Sweater Store
 
-![GitHub](https://img.shields.io/github/license/Amoradvisory/pink-sweater-store)
-![GitHub last commit](https://img.shields.io/github/last-commit/Amoradvisory/pink-sweater-store)
-![GitHub issues](https://img.shields.io/github/issues/Amoradvisory/pink-sweater-store)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-Prototype React/TypeScript e-commerce: page produit pour un magasin de pulls roses.
+Boutique en ligne minimaliste pour le produit "Rose Quartz Sweater". Interface simple et élégante pour présenter et vendre un pull en coton rose.
 
 ## Fonctionnalités
 
-- Page produit interactive
-- Panier d'achat
-- Interface responsive
-- Design moderne
+- Affichage du produit avec image, description et prix
+- Bouton d'ajout au panier avec état visuel
+- Liste des caractéristiques du produit
+- Témoignage client
+- Pied de page avec liens légaux
 
-## Installation
+## Stack technique
 
-```bash
-# Clone le dépôt
-git clone https://github.com/Amoradvisory/pink-sweater-store.git
+- Frontend : React, TypeScript
+- UI : Tailwind CSS, shadcn/ui
 
-# Accède au répertoire
-cd pink-sweater-store
+## Installation et lancement
 
-# Installe les dépendances
-npm install
+1. Cloner le dépôt
+2. Installer les dépendances avec `npm install`
+3. Lancer l'application avec `npm run dev`
 
-# Lance l'application
-npm run dev
-```
+## Statut
+
+Ce projet est une boutique en ligne fonctionnelle pour un seul produit.
 
 ## Licence
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
+Ce projet est sous licence MIT.
