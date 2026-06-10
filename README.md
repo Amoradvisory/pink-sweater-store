@@ -2,30 +2,31 @@
 
 ## Description
 
-Pink Sweater Store est une application e-commerce pour la vente de pulls roses.
+Boutique en ligne spécialisée dans les pulls roses.
 
 ## Fonctionnalités
 
-- Catalogue de produits
-- Panier d'achat
-- Paiement sécurisé
+- Catalogue de produits complet
+- Panier d'achat persistant
+- Système de paiement sécurisé
 
-## Stack
+## Stack technique
 
-- Frontend: React
-- Backend: Node.js
-- Base de données: MongoDB
+- Frontend : React
+- Backend : Node.js
+- Base de données : MongoDB
 
-## Installation et lancement
+## Installation
 
-1. Clonez le dépôt
-2. Installez les dépendances avec `npm install`
-3. Lancez l'application avec `npm start`
+```bash
+npm install
+npm start
+```
 
 ## Statut
 
-Ce projet est en développement actif.
+Application fonctionnelle en développement actif
 
 ## Licence
 
-Ce projet est sous licence MIT.
+MIT
