@@ -1,23 +1,36 @@
 # Pink Sweater Store
 
-Prototype React/TypeScript d'une page produit pour un pull rose, généré comme base visuelle e-commerce.
+![GitHub](https://img.shields.io/github/license/Amoradvisory/pink-sweater-store)
+![GitHub last commit](https://img.shields.io/github/last-commit/Amoradvisory/pink-sweater-store)
+![GitHub issues](https://img.shields.io/github/issues/Amoradvisory/pink-sweater-store)
 
-## Contenu
+## Description
 
-- `PinkSweaterStore.tsx` : composant React principal de la page produit.
-- Déploiement visible : https://new-seven-nu.vercel.app
+Prototype React/TypeScript e-commerce: page produit pour un magasin de pulls roses.
 
-## Statut
+## Fonctionnalités
 
-Prototype / expérimentation.
+- Page produit interactive
+- Panier d'achat
+- Interface responsive
+- Design moderne
 
-## Prochaines améliorations possibles
+## Installation
 
-- Renommer le dépôt pour refléter le projet final.
-- Ajouter une vraie structure Next.js ou React complète si le prototype doit devenir une application.
-- Ajouter les images produit dans un dossier `public/images`.
-- Ajouter une licence si le dépôt devient réutilisable publiquement.
+```bash
+# Clone le dépôt
+git clone https://github.com/Amoradvisory/pink-sweater-store.git
 
-## Note de sécurité
+# Accède au répertoire
+cd pink-sweater-store
 
-L'ancien fichier nommé `key` ne contenait pas de secret détecté, mais il a été renommé pour éviter toute ambiguïté publique.
+# Installe les dépendances
+npm install
+
+# Lance l'application
+npm run dev
+```
+
+## Licence
+
+Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de détails.
